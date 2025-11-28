@@ -16,8 +16,6 @@ It includes:
 - Performance reviews  
 - Administrative access for BI tools  
 
-This project shows your ability to design normalized databases, write SQL queries, joins, aggregations, and real analytics queries.
-
 ---
 
 # 📂 **Database Structure**
